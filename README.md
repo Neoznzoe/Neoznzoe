@@ -44,7 +44,6 @@
     style="vertical-align: middle;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" 
   />
-  
   &nbsp;
   <img 
     alt="Tailwind CSS" 
