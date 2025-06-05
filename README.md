@@ -29,8 +29,7 @@
 ## 🔧 Compétences & Outils
 
 <div align="center">
-  <!-- Remplace les icônes selon tes skills ; cette liste est un exemple -->
-  <img alt="HTML5" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+    <img alt="HTML5" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   &nbsp;
   <img alt="CSS3" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   &nbsp;
@@ -40,15 +39,7 @@
   &nbsp;
   <img alt="React" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   &nbsp;
-  <img alt="Vue.js" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
-  &nbsp;
   <img alt="Node.js" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  &nbsp;
-  <img alt="Python" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  &nbsp;
-  <img alt="Django" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" />
-  &nbsp;
-  <img alt="Flutter" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
   &nbsp;
   <img alt="Git" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   &nbsp;
@@ -56,28 +47,16 @@
   &nbsp;
   <img alt="MongoDB" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
   &nbsp;
-  <img alt="PostgreSQL" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+  <img alt="Tailwind CSS" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+  &nbsp;
+  <img alt="Angular" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
+  &nbsp;
+  <img alt="Next.js" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+  &nbsp;
+  <img alt="PHP" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+  &nbsp;
+  <img alt="Supabase" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" />
 </div>
-
----
-
-## 🚀 Mes Projets
-
-### [Nom du projet 1](https://github.com/ton-username/projet-1)
-**Description :** Brève description du projet – objectifs, technos utilisées, fonctionnalités clés.  
-**Stack :** React • Node.js • Express • MongoDB
-
----
-
-### [Nom du projet 2](https://github.com/ton-username/projet-2)
-**Description :** Une courte présentation (ce que le projet résout, pourquoi tu l’as créé).  
-**Stack :** Flutter • Firebase • Algolia
-
----
-
-### [Nom du projet 3](https://github.com/ton-username/projet-3)
-**Description :** Présentation rapide (ex. un chatbot IA, une API REST, un site vitrine dynamique…).  
-**Stack :** Python • Django • PostgreSQL
 
 ---
 
@@ -87,35 +66,5 @@
 [![Twitter][twitter-shield]][twitter-url]
 [![Mail][mail-shield]][mail-url]
 
-- ✉️ **Email :** [ton.email@example.com](mailto:ton.email@example.com)
-- 🧑‍💼 **LinkedIn :** [linkedin.com/in/ton-profil](https://www.linkedin.com/in/ton-profil)
-- 🐦 **Twitter :** [@ton_twitter](https://twitter.com/ton_twitter)
-
----
-
-## 📈 Statistiques GitHub
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ton-username&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ton-username&layout=compact&theme=radical)
-
----
-
-<!--
-  ╔══════════════════════════════════════╗
-  ║   Pour personnaliser ce template :  ║
-  ║   - Change “ton-username” par ton UID ║
-  ║   - Remplace tous les liens et méta  ║
-  ║   - Ajoute/supprime des sections     ║
-  ╚══════════════════════════════════════╝
--->
-
-<!-- Icônes pour Contact -->
-<!-- Shields.io : https://shields.io/ -->
-<!-- Exemple de badges :
-  [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white
-  [linkedin-url]: https://www.linkedin.com/in/ton-profil
-  [twitter-shield]: https://img.shields.io/badge/-Twitter-blue?style=flat&logo=twitter&logoColor=white
-  [twitter-url]: https://twitter.com/ton_twitter
-  [mail-shield]: https://img.shields.io/badge/-Mail-c14438?style=flat&logo=gmail&logoColor=white
-  [mail-url]: mailto:ton.email@example.com
--->
+- ✉️ **Email :** [mail@vbes.fr](mailto:mail@vbes.fr)
+- 🧑‍💼 **LinkedIn :** [linkedin.com/in/www.linkedin.com/in/victor-besson](https://www.linkedin.com/in/victor-besson/)
