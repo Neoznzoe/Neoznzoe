@@ -9,7 +9,6 @@
 
 - 🔭 Je travaille actuellement chez Glénat Éditions en tant que développeur fullstack.
 - 🌱 Je suis en pleine exploration des technos **3D (Three.js)** et **animation (GSAP)**.
-- 💬 N’hésite pas à me contacter pour discuter de **[sujets qui te passionnent : ex. open source, startups, data science]**.
 - 📫 Tu peux me joindre à **mail@vbes.fr** ou via LinkedIn (voir ci-dessous).
 - ⚡ En dehors du code, je suis moniteur de ski.
 
