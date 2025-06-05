@@ -44,12 +44,34 @@
     style="vertical-align: middle;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" 
   />
+  
+  &nbsp;
+  <img 
+    alt="Tailwind CSS" 
+    height="40" 
+    style="vertical-align: middle;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" 
+  />
   &nbsp;
   <img 
     alt="React" 
     height="40" 
     style="vertical-align: middle;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" 
+  />
+    &nbsp;
+  <img 
+    alt="Next.js" 
+    height="40" 
+    style="vertical-align: middle;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" 
+  />
+  &nbsp;
+  <img 
+    alt="Angular" 
+    height="40" 
+    style="vertical-align: middle;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" 
   />
   &nbsp;
   <img 
@@ -78,27 +100,6 @@
     height="40" 
     style="vertical-align: middle;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" 
-  />
-  &nbsp;
-  <img 
-    alt="Tailwind CSS" 
-    height="40" 
-    style="vertical-align: middle;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" 
-  />
-  &nbsp;
-  <img 
-    alt="Angular" 
-    height="40" 
-    style="vertical-align: middle;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" 
-  />
-  &nbsp;
-  <img 
-    alt="Next.js" 
-    height="40" 
-    style="vertical-align: middle;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" 
   />
   &nbsp;
   <img 
