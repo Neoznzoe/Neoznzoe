@@ -20,7 +20,7 @@
 
 ## 🔧 Compétences & Outils
 
-<div align="center">
+<div>
   <img 
     alt="HTML5" 
     height="40" 
