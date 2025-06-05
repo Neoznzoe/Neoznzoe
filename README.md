@@ -1,11 +1,3 @@
-<!--
-  ╔══════════════════════════════════════════════════════════╗
-  ║   Pour l’afficher, nomme ce fichier “README.md”        ║
-  ║   dans un repo GitHub dont le nom est exactement         ║
-  ║   identique à ton nom d’utilisateur GitHub.             ║
-  ╚══════════════════════════════════════════════════════════╝
--->
-
 <!-- Bannière de bienvenue -->
 <h1 align="center">
   Salut 👋, je suis [Ton Nom] !
@@ -29,42 +21,109 @@
 ## 🔧 Compétences & Outils
 
 <div align="center">
-    <img alt="HTML5" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img 
+    alt="HTML5" 
+    height="40" 
+    style="vertical-align: middle;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" 
+  />
   &nbsp;
-  <img alt="CSS3" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img 
+    alt="CSS3" 
+    height="40" 
+    style="vertical-align: middle;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" 
+  />
   &nbsp;
-  <img alt="JavaScript" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img 
+    alt="JavaScript" 
+    height="40" 
+    style="vertical-align: middle;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" 
+  />
   &nbsp;
-  <img alt="TypeScript" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img 
+    alt="TypeScript" 
+    height="40" 
+    style="vertical-align: middle;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" 
+  />
   &nbsp;
-  <img alt="React" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img 
+    alt="React" 
+    height="40" 
+    style="vertical-align: middle;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" 
+  />
   &nbsp;
-  <img alt="Node.js" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img 
+    alt="Node.js" 
+    height="40" 
+    style="vertical-align: middle;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" 
+  />
   &nbsp;
-  <img alt="Git" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img 
+    alt="Git" 
+    height="40" 
+    style="vertical-align: middle;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" 
+  />
   &nbsp;
-  <img alt="Docker" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+  <img 
+    alt="Docker" 
+    height="40" 
+    style="vertical-align: middle;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" 
+  />
   &nbsp;
-  <img alt="MongoDB" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+  <img 
+    alt="MongoDB" 
+    height="40" 
+    style="vertical-align: middle;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" 
+  />
   &nbsp;
-  <img alt="Tailwind CSS" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" />
+  <img 
+    alt="Tailwind CSS" 
+    height="40" 
+    style="vertical-align: middle;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" 
+  />
   &nbsp;
-  <img alt="Angular" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
+  <img 
+    alt="Angular" 
+    height="40" 
+    style="vertical-align: middle;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" 
+  />
   &nbsp;
-  <img alt="Next.js" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+  <img 
+    alt="Next.js" 
+    height="40" 
+    style="vertical-align: middle;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" 
+  />
   &nbsp;
-  <img alt="PHP" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+  <img 
+    alt="PHP" 
+    height="40" 
+    style="vertical-align: middle;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" 
+  />
   &nbsp;
-  <img alt="Supabase" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" />
+  <img 
+    alt="Supabase" 
+    height="40" 
+    style="vertical-align: middle;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" 
+  />
 </div>
+
 
 ---
 
 ## 📫 Contact
-
-[![LinkedIn][linkedin-shield]][linkedin-url]
-[![Twitter][twitter-shield]][twitter-url]
-[![Mail][mail-shield]][mail-url]
 
 - ✉️ **Email :** [mail@vbes.fr](mailto:mail@vbes.fr)
 - 🧑‍💼 **LinkedIn :** [linkedin.com/in/www.linkedin.com/in/victor-besson](https://www.linkedin.com/in/victor-besson/)
