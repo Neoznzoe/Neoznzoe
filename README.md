@@ -1,20 +1,17 @@
 <!-- Bannière de bienvenue -->
 <h1 align="center">
-  Salut 👋, je suis [Ton Nom] !
+  Salut 👋, je suis Victor !
 </h1>
-<p align="center">
-  <em>Passionné·e de développement web / mobile / data / IA, basé·e à [Ta Ville/ Ton Pays].</em>
-</p>
 
 ---
 
 ## 👨‍💻 À propos de moi
 
-- 🔭 Je travaille actuellement chez **[Nom de ton entreprise ou organisation]** en tant que *[Intitulé du poste]*.
-- 🌱 Je suis en pleine exploration de **[technos/secteurs qui t’intéressent en ce moment : ex. IA, DevOps, Blockchain…]**.
+- 🔭 Je travaille actuellement chez Glénat Éditions en tant que développeur fullstack.
+- 🌱 Je suis en pleine exploration des technos **3D (Three.js)** et **animation (GSAP)**.
 - 💬 N’hésite pas à me contacter pour discuter de **[sujets qui te passionnent : ex. open source, startups, data science]**.
-- 📫 Tu peux me joindre à **[ton.email@example.com]** ou via LinkedIn (voir ci-dessous).
-- ⚡ En dehors du code, j’aime **[tes hobbies : ex. le design graphique, la vidéo, la musique, le sport]**.
+- 📫 Tu peux me joindre à **mail@vbes.fr** ou via LinkedIn (voir ci-dessous).
+- ⚡ En dehors du code, je suis moniteur de ski.
 
 ---
 
@@ -119,8 +116,6 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" 
   />
 </div>
-
-
 ---
 
 ## 📫 Contact
