@@ -115,7 +115,6 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" 
   />
 </div>
----
 
 ## 📫 Contact
 
