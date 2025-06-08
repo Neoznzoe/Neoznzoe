@@ -4,7 +4,7 @@
 </h1>
 
 ---
-
+de
 ## 👨‍💻 À propos de moi
 
 - 🔭 Je travaille actuellement chez Glénat Éditions en tant que développeur fullstack.
