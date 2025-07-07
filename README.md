@@ -20,8 +20,8 @@
   <img
     alt="HTML5"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
-    height="40"
-    width="auto"
+    height="4"
+    width="4"
   />
   <img
     alt="CSS3"
